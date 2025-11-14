@@ -41,5 +41,5 @@ public class hector6933 {
 
 ## Lenguajes mas utilizados:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector6933&layout=donut-vertical&theme=synthwave)](https://github.com/hector6933/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector6933&layout=donut-vertical&theme=gotham)](https://github.com/hector6933/github-readme-stats)
 
