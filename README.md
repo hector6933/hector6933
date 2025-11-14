@@ -48,6 +48,7 @@ public class hector6933 {
 
 }
 ```
+## Pinned repos:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=repositorio_hector&theme=blue-green" />
 </a>
