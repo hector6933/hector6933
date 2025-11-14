@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3500&pause=1500&color=0BF362&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-Distruta
+Enjoy...
 
 ## Stats:
 
