@@ -4,7 +4,6 @@ Distruta
 
 ## Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector6933&layout=pie&theme=blue-green)](https://github.com/hector6933)
 <a href="https://github.com/hector6933/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hector6933&theme=blue-green" />
 </a>
