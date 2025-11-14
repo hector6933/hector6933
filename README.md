@@ -3,10 +3,10 @@
 Distruta
 
 ## Stats:
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hector6933&show_icons=true&theme=gotham" alt="Stats hector6933" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector6933&layout=pie&theme=gotham)](https://github.com/hector6933)
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hector6933&show_icons=true&theme=gotham" alt="Stats hector6933" />
 
 ``` Java
 public class hector6933 {
