@@ -5,10 +5,10 @@ Distruta
 ## Stats:
 
 <a href="https://github.com/hector6933/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hector6933&theme=blue-green" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hector6933&theme=blue-green"/>
 </a>
 <a href="https://github.com/hector6933/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=8&card_width=320&theme=blue-green"/>
 </a>
 
 ## hector6933.java
