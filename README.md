@@ -53,7 +53,7 @@ public class hector6933 {
 <a href="https://github.com/hector6933/DAM1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=DAM1&theme=blue-green" />
 </a>
-<a href="https://github.com/hector6933/repositorio_hector">
+<a href="https://github.com/hector6933/wiki_breba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=wiki_breba&theme=blue-green" />
 </a>
 
