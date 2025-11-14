@@ -27,8 +27,9 @@ public class hector6933 {
 
             }
 
-        }
+            Humano.hector(años);
 
+        }
 
     }
 
