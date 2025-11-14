@@ -49,7 +49,7 @@ public class hector6933 {
 }
 ```
 ## Pinned repos:
-<div style="display: flex; justify-content: space-around;>
+<div style="display: flex; justify-content: space-around; width: 100%;>
 
   <a href="https://github.com/hector6933/repositorio_hector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=repositorio_hector&theme=blue-green" />
