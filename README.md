@@ -64,7 +64,7 @@ public class hector6933 {
 
 <p align="center">
   
-  <a href="https://github.com/hector6933/DAM1">
+  <a href="https://github.com/hector6933/repositorio_hector">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=repositorio_hector&theme=blue-green" />
   </a>
   
