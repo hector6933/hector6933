@@ -34,15 +34,16 @@ public class hector6933 {
 
             }
 
-            for (int i = 0; i < 18; i++) {
+           
+        }
+
+       for (int i = 0; i < 18; i++) {
 
                 años +=1;
 
-            }
-
-            Humano.hector(años);
-
         }
+
+       Humano.hector(años);
 
     }
 
