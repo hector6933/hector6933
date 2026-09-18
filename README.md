@@ -3,7 +3,7 @@
 ### Enjoy...
 
 ## Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)
 
