@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!" alt="Typing SVG" />
   </a>
 </p>
-### Disfruta...
+
+<h3 align="center">Stats</h3>
+
 <h2 align="center">Stats</h2>
 
 <p align="center">
