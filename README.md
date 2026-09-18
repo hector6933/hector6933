@@ -49,12 +49,7 @@ public class hector6933 {
 
 <p align="center">
   
-  <a href="https://github.com/hector6933/DAM1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=DAM1&theme=blue-green" />
-  </a>
-  <a href="https://github.com/hector6933/wiki_breba">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=wiki_breba&theme=blue-green" />
-  </a>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hector6933&repo=hector6933%2FDAM2&description_lines_count=1&theme=midnight-purple)](https://github.com/hector6933/DAM2)
   
 </p>
 
