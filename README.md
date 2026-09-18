@@ -1,9 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!)](https://git.io/typing-svg)
 ### Disfruta...
-## Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple)
+<h2 align="center">Stats</h2>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple">
+    <img src="https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple" alt="GitHub Stats" />
+  </a>
+</p>
+
 
 <h2 align="center">Top repos:</h2>
 
