@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">Stats</h3>
-
 <h2 align="center">Stats</h2>
 
 <p align="center">
