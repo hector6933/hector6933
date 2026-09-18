@@ -3,8 +3,7 @@
 ### Enjoy...
 
 ## Stats:
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=donut&langs_count=9&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=donut&langs_count=9&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=donut&langs_count=9&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=donut&langs_count=9&theme=chartreuse-dark)
 
 ## hector6933.java
 ``` Java
