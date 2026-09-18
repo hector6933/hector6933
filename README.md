@@ -5,44 +5,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)
 
-## hector6933.java
-``` Java
-public class hector6933 {
-
-    public static void main(String[] args) {
-
-        boolean breva = true;
-        boolean toser = (mosca == cojonera);
-        int años = 0;
-        while (breva) {
-
-            if (toser) {
-
-                System.out.println("Rascarse la barriga");
-                break;
-
-            } else if (vienen) {
-
-                System.out.println("Ahora viene cuando la matan");
-                break;
-
-            }
-
-           
-        }
-
-       for (int i = 0; i < 18; i++) {
-
-                años +=1;
-
-        }
-
-       Humano.hector(años);
-
-    }
-
-}
-```
 ## Pinned repos:
 
 <p align="center">
