@@ -8,10 +8,13 @@
 ## Pinned repos:
 
 <p align="center"> 
-  
+
+  <p>
+    
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hector6933&repo=hector6933%2FDAM1&description_lines_count=1&theme=midnight-purple)](https://github.com/hector6933/DAM2)
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hector6933&repo=hector6933%2FDAM2&description_lines_count=1&theme=midnight-purple)](https://github.com/hector6933/DAM2)
   
+  </p>
 </p>
 
 
