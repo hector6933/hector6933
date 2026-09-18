@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!)](https://git.io/typing-svg)
 
 ### Enjoy...
 
