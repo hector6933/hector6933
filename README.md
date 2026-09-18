@@ -10,17 +10,9 @@
 <p align="center">
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hector6933&repo=hector6933%2FDAM2&description_lines_count=1&theme=midnight-purple)](https://github.com/hector6933/DAM2)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hector6933&repo=hector6933%2FDAM1&description_lines_count=1&theme=midnight-purple)](https://github.com/hector6933/DAM2)
   
 </p>
-
-<p align="center">
-  
-  <a href="https://github.com/hector6933/repositorio_hector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hector6933&repo=repositorio_hector&theme=blue-green" />
-  </a>
-  
-</p>
-
 
 
 
