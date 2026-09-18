@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!)](https://git.io/typing-svg)
-
-### Enjoy...
-
+### Disfruta...
 ## Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple)
 
