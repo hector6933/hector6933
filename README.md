@@ -5,8 +5,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple)
 
-## Pinned repos:
-
+<h2 align="center">Top repos:</h2>
 
 <p align="center">
   <a href="https://github.com/hector6933/DAM1">
