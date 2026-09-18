@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/hector6933/DAM2">
+  <a href="https://github.com/hector6933/DAM1">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=hector6933&repo=hector6933%2FDAM1&description_lines_count=1&theme=midnight-purple" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/hector6933/DAM2">
