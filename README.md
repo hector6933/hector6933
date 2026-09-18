@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=8209F7&width=435&lines=Hola%2C+bienvenido+a+mi+perflil!" alt="Typing SVG" />
+  </a>
+</p>
 ### Disfruta...
 <h2 align="center">Stats</h2>
 
