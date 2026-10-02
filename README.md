@@ -12,8 +12,8 @@
     <img src="https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
   </a>
   <br><br>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=4&theme=midnight-purple" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=6&theme=midnight-purple">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=6&theme=midnight-purple" alt="GitHub Stats" />
   </a>
 </p>
 
